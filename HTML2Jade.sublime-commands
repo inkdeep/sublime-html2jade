@@ -1,0 +1,4 @@
+[
+	{ "caption": "HTML2Jade: Convert & Make New File", "command": "html_jade", "args":{"new_file": true}},
+	{ "caption": "HTML2Jade: Convert & Overwrite Current File", "command": "html_jade", "args":{"new_file": false}}
+]
